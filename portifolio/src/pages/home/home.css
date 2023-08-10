@@ -5,50 +5,49 @@ body {
 }
 
 #header {
-	border-radius: 10px;
 	background-color: #333;
-	border-bottom: outset ;
+	border-bottom: outset;
 	width: 96%;
 	color: #000000;
 	padding: 20px;
-	position:fixed;
-	margin: 10px;
+	position: fixed;
+	margin: 5px;
 }
 
-img{ 
+img {
 	height: 150px;
 	width: 150px;
 	border-radius: 100px;
-	position:fixed;
+	position: fixed;
 }
 
 header h1 {
-	
+
 	font-size: 40px;
-	font-family:'Courier New', Courier, monospace;
+	font-family: 'Courier New', Courier, monospace;
 	color: #fff;
 	margin: 0;
 	position: relative;
 }
 
-nav ul{
+nav ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 
-nav ul li{
+nav ul li {
 	display: inline-block;
 	margin-left: 20px;
 }
 
-nav ul li{
-	color:#fff;
-	text-decoration:underline;
+nav ul li {
+	color: #fff;
+	text-decoration: underline;
 }
 
-nav ul li a:hover{
-	background-color:rgb(131, 131, 131) ;
+nav ul li a:hover {
+	background-color: rgb(131, 131, 131);
 }
 
 main {
@@ -70,7 +69,7 @@ ul {
 	margin: 0;
 }
 
-p{
+p {
 	margin-left: 200px;
 }
 
@@ -83,14 +82,14 @@ a {
 	padding: 3px 5px;
 	border-radius: 50px;
 	background-color: darkgray;
-	font-family:'Courier New', Courier, monospace;
+	font-family: 'Courier New', Courier, monospace;
 	color: #fff;
 	text-decoration: none;
 }
 
 h2 {
 	padding: 5px 10px;
-	background-color:darkgray;
+	background-color: darkgray;
 	border-radius: 10px;
 }
 
